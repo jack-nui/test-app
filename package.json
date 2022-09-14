@@ -1,0 +1,22 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "A test app by Jack",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-nui/test-app.git"
+  },
+  "author": "Jack Daun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack-nui/test-app/issues"
+  },
+  "homepage": "https://github.com/jack-nui/test-app#readme",
+  "devDependencies": {
+    "electron": "^20.1.3"
+  }
+}
